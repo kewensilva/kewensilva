@@ -2,9 +2,8 @@
 
 <h2> Desenvolvedor Em Constante Evolução </h2>
 
-- 🔭 Atualmente buscando evolução profissional como Desenevolvedor...
-- 🌱 Especializando em Angular/ NodeJS...
-- 🚀 Em Busca de Experiência Profissional na área de Desenvolvimento...
+-  🌱 Especializando em Angular/ React-Native/ NodeJS / MongoDB / PostgreSQL / Docker/ AWS 
+- 🚀 Em Busca de Experiência Profissional na área de Desenvolvimento
 - 💻 Usuário de Linux <img align="center" alt="Kewen-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 
 <div> 
